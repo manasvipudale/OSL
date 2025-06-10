@@ -1,0 +1,2 @@
+# OSL
+SPPU-OSL practicals
