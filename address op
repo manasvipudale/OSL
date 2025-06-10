@@ -1,0 +1,269 @@
+#Name: Utkarsha Kakade
+#PRN no: 72293279M
+
+utkarsha@utkarsha-VivoBook-ASUSLaptop-X409JA-X409JA:~$ sh address1.sh
+
+	 Address Database
+	------------------
+ 1. Create Database 
+ 2. View database
+ 3. Insert a record
+4. Delete a record 
+ 5. Search a record. 
+ 6.Modify A Record. 
+ 7.Exit..
+
+Your Choice : 
+1
+
+ Address Database : 
+Enter the File Name : 
+3333
+
+Enter the no. of records to be entered in the file 3333 : 
+3
+
+Enter Name : 
+Utkarsha
+
+Enter city : 
+Pune
+
+Enter zipcode : 
+412102
+
+Enter moblie : 
+8552871445 
+
+Utkarsha 		Pune		412102		8552871445
+
+ Your data is stored in the file.
+
+Enter Name : 
+Soham
+
+Enter city : 
+Mumbai
+
+Enter zipcode : 
+134241
+
+Enter moblie : 
+8149391445
+
+Soham 		Mumbai		134241		8149391445
+
+ Your data is stored in the file.
+
+Enter Name : 
+Snehal
+
+Enter city : 
+Pune
+
+Enter zipcode : 
+412312
+
+Enter moblie : 
+9970849337
+
+Snehal 		Pune		412312		9970849337
+
+ Your data is stored in the file.
+
+	 Address Database
+	------------------
+ 1. Create Database 
+ 2. View database
+ 3. Insert a record
+4. Delete a record 
+ 5. Search a record. 
+ 6.Modify A Record. 
+ 7.Exit..
+
+Your Choice : 
+2
+
+		ADDRESS DATABASE
+.........................................................................................
+
+Name		City		Zipcode		Mobile
+.........................................................................................
+
+Utkarsha 		Pune		412102		8552871445
+
+Soham 		Mumbai		134241		8149391445
+
+Snehal 		Pune		412312		9970849337
+.........................................................................................
+
+	 Address Database
+	------------------
+ 1. Create Database 
+ 2. View database
+ 3. Insert a record
+4. Delete a record 
+ 5. Search a record. 
+ 6.Modify A Record. 
+ 7.Exit..
+
+Your Choice : 
+3
+
+Enter Name : 
+Samruddhi
+
+Enter City : 
+Baramati
+
+Enter Zipcode : 
+412233
+
+Enter Mobile : 
+9291827345
+
+Samruddhi		Baramati		412233		9291827345
+
+ Your data is stored in the file.
+address1.sh: 79: 3=4: not found
+
+	 Address Database
+	------------------
+ 1. Create Database 
+ 2. View database
+ 3. Insert a record
+4. Delete a record 
+ 5. Search a record. 
+ 6.Modify A Record. 
+ 7.Exit..
+
+Your Choice : 
+4
+
+Enter the Name of the  record to be deleted : 
+Samruddhi
+Samruddhi		Baramati		412233		9291827345
+
+	 Address Database
+	------------------
+ 1. Create Database 
+ 2. View database
+ 3. Insert a record
+4. Delete a record 
+ 5. Search a record. 
+ 6.Modify A Record. 
+ 7.Exit..
+
+Your Choice : 
+2
+
+		ADDRESS DATABASE
+.........................................................................................
+
+Name		City		Zipcode		Mobile
+.........................................................................................
+
+Utkarsha 		Pune		412102		8552871445
+
+Soham 		Mumbai		134241		8149391445
+
+Snehal 		Pune		412312		9970849337
+
+.........................................................................................
+
+	 Address Database
+	------------------
+ 1. Create Database 
+ 2. View database
+ 3. Insert a record
+4. Delete a record 
+ 5. Search a record. 
+ 6.Modify A Record. 
+ 7.Exit..
+
+Your Choice : 
+5
+
+Enter the Name of the record to be displayed : 
+Utkarsha
+Utkarsha 		Pune		412102		8552871445
+
+	 Address Database
+	------------------
+ 1. Create Database 
+ 2. View database
+ 3. Insert a record
+4. Delete a record 
+ 5. Search a record. 
+ 6.Modify A Record. 
+ 7.Exit..
+
+Your Choice : 
+6
+
+Enter the Name of the student whose record is to be modified : 
+Soham
+Soham 		Mumbai		134241		8149391445
+
+Enter Name : 
+Soham
+
+Enter City : 
+Mumbai
+
+Enter Zipcode : 
+412102
+
+Enter Mobile : 
+8149391445
+
+ Your data is stored in the file.
+
+	 Address Database
+	------------------
+ 1. Create Database 
+ 2. View database
+ 3. Insert a record
+4. Delete a record 
+ 5. Search a record. 
+ 6.Modify A Record. 
+ 7.Exit..
+
+Your Choice : 
+2
+
+		ADDRESS DATABASE
+.........................................................................................
+
+Name		City		Zipcode		Mobile
+.........................................................................................
+
+
+Soham 		Mumbai		134241		8149391445
+
+Snehal 		Pune		412312		9970849337
+
+
+Utkarsha 		Pune		412102		8552871445
+
+
+Snehal 		Pune		412312		9970849337
+
+
+Soham		Mumbai		412102		8149391445
+.........................................................................................
+
+	 Address Database
+	------------------
+ 1. Create Database 
+ 2. View database
+ 3. Insert a record
+4. Delete a record 
+ 5. Search a record. 
+ 6.Modify A Record. 
+ 7.Exit..
+
+Your Choice : 
+7
+Exitting from Program..
+
